@@ -1,8 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
- */
 package com.cristianml.primerservlet.servlets;
+
+// Los servlets sirven para crear la conexión mediante un frontend con el servidor (ejemplo Apache tomcat)
+// Conexión mediante protocolo HTTP -> request y response
 
 import java.io.IOException;
 import java.io.PrintWriter;
